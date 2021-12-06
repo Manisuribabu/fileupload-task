@@ -138,7 +138,7 @@ const FileUpload = () => {
                   icon={faWindowClose}
                 />
                 <div className="progress">
-                  <div className="progress-value "></div>
+                  <div className="progress-value ">100%</div>
                 </div>
               </div>
             </List>
